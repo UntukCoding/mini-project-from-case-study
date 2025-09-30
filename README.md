@@ -38,7 +38,7 @@ Bagian ini menjelaskan beberapa keputusan arsitektur dan teknis utama yang diamb
 Pastikan Anda telah menginstal prasyarat berikut di sistem Anda:
 -   Node.js (v18 atau lebih baru)
 -   NPM atau Yarn
--   Docker dan Docker Compose (untuk menjalankan Redis & ChromaDB)
+-   Docker dan Docker Compose (untuk menjalankan Redis, Qdrant & Mysql )
 -   Git
 
 **Langkah-langkah Instalasi:**
