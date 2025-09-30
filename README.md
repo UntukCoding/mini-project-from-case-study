@@ -25,7 +25,7 @@ Bagian ini menjelaskan beberapa keputusan arsitektur dan teknis utama yang diamb
 ## Teknologi yang Digunakan
 
 -   **Backend:** Node.js, Express.js
--   **Database:** MySQL (dikelola oleh Prisma ORM)
+-   **Database:** MySQL (connection oleh Prisma ORM)
 -   **Vector Database:** Qdrant
 -   **Task Queue:** BullMQ
 -   **Message Broker:** Redis
