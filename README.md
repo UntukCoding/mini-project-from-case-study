@@ -32,7 +32,6 @@ Bagian ini menjelaskan beberapa keputusan arsitektur dan teknis utama yang diamb
 -   **LLM:** Google Gemini (via `@google/genai`)
 -   **File Handling:** Multer
 -   **Validation:** Joi
--   **Testing:** Jest, Supertest
 
 ## Setup dan Instalasi
 
